@@ -17,4 +17,4 @@ ng update @angular/core@9 @angular/cli@9
 This is the source I used for the fixes:
 https://jasontaylor.dev/asp-net-core-angular-9-upgrade/
    
-I'll try and support if you have any issues, but this was mostly built for my personal use-cases. 
+I'll try and support if you have any issues, but this was mostly built for my personal use cases. 
